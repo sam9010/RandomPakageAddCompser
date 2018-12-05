@@ -14,5 +14,9 @@
           "Random\\": "src/"
       }
     },
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "gheibipour/composer-add-pakage": "dev-master"
+    }
 }
